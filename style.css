@@ -1,0 +1,15 @@
+body{
+  background: rgb(170, 186, 167);
+}
+p{
+  font-size: 20px;
+}
+img{
+  width: 80%;
+  height: 80vh;
+}
+a{
+  color: rgb(60, 133, 211);
+  padding: 10px;
+  cursor: pointer;
+}
